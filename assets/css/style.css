@@ -184,6 +184,7 @@ html {
     /* padding-top: 50%; */
     /* background: url('./assets/img/slider/chicago.jpg') top center / cover no-repeat; */
     position: relative;
+
 }
 
 #slider .slider-img {
@@ -196,7 +197,6 @@ html {
     color: #fff;
     left: 50%;
     transform: translateX(-50%);
-    /* width: 100%; */
     text-align: center;
     padding: 32px 16px;
     text-shadow: 0 0 1px #000;
